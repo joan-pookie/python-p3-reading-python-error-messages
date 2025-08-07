@@ -1,3 +1,3 @@
-#!/usr/bin/env python3
+correct_type = 3 + 5
+print(correct_type)
 
-poor_syntax = 2 * #
